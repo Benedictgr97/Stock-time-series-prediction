@@ -1,1 +1,2 @@
 # Kaggle-time-series-prediction
+Prediction of Microsoft (MSFT) stock movent using topics discussed in the time series course on Kaggle. The two main models were a multi ouput regressor XGboost and an lstm sequential model with keras. Both were used to try to predict 20 days into the future with the relu activation function alongside a range of unit sizes being tried on the later, unfortunatly with no performance gain.
